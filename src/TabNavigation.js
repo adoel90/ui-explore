@@ -86,6 +86,6 @@ const dummy = [
   },
   {
     id: 3, 
-    name : "Search"
+    name : "Table"
   },
 ]
